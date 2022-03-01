@@ -23,13 +23,13 @@ Otherwise, if either input A or input B is high, at least one of the lower trans
 
 ## Tools Used
 
-* Synopsys Custom Compiler
+* ###Synopsys Custom Compiler
 The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. 
 
-* Synopsys Primewave
+* ###Synopsys Primewave
 PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform.
 
-* Synopsys 28nm PDK
+* ###Synopsys 28nm PDK
 The 28nm Process Design Kits (PDKs) are designed for use in research and teaching of IC design. 
 
 ## Synopsis Simulation

@@ -59,7 +59,9 @@ The 28nm Process Design Kits (PDKs) are designed for use in research and teachin
 ![primewaveparameters](https://user-images.githubusercontent.com/73933646/156180983-2d67ec1c-25b6-4dfa-8090-2269244eb073.png)
 
 * Netlist
+
 '''
+
 *  Generated for: PrimeSim
 *  Design library name: CMOS_NOR
 *  Design cell name: 2_input_cmos_NOR_tb
@@ -125,6 +127,7 @@ v17 in_a gnd! dc=0 pulse ( 0 1.8 0 0.1u 0.1u 5u 10u )
 
 
 .end
+
 '''
 
 

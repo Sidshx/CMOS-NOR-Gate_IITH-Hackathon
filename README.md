@@ -38,7 +38,7 @@ CMOS NOR gate has 2 PMOS transistors connected in series with one another, which
 The output of the CMOS NOR gate goes HIGH only when both inputs (A & B) are low, both the lower transistors get in Cutoff mode and both the upper transistors get Saturated. 
 Otherwise, if either input A or input B is high, at least one of the lower transistors (NMOS1 or NMOS2) gets saturated making the output low.
 
-### Truth Table
+- ### Truth Table
 ![Truth Table](https://user-images.githubusercontent.com/73933646/156178214-c46a151e-1aa8-40e9-ae8b-416db6e690fe.png)
 
 

@@ -12,6 +12,7 @@ NOR gate is a universal gate. It is a logically inverted version of the basic OR
 ## Reference Circuit Details
 
 ## Reference Waveform
+![waveform1](https://user-images.githubusercontent.com/73933646/156177507-f84ead3d-c1b7-483e-84ef-c68123ff87b7.jpg)
 
 ## Tools Used
 

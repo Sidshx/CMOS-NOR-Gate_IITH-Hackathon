@@ -26,6 +26,7 @@ CMOS Implemented NOR Gate is designed using Synopsys custom design tools.
       
 ## Abstract
 NOR gate is a universal gate. It is a logically inverted version of the basic OR gate. In this implementation it has two inputs (A & B) with an output (Y). Its logical equation is derived as Y=(A+B)'.
+The popular CMOS (Complementary-metal-oxide-semiconductor) technology is implemented to design this NOR gate.
 
 ## Reference Circuit
 ![Circuit1](https://user-images.githubusercontent.com/73933646/156177339-7796f397-0267-478d-b425-a2f06cd5e16c.jpg)

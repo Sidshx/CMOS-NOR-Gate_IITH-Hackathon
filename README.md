@@ -31,6 +31,13 @@ CMOS Implemented NOR Gate is designed using Synopsys custom design tools.
 
 * Testbench Waveform
 
+## Conclusion
+
+## Acknowledgement
+
+## References
+
+
 
 
 

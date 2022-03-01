@@ -41,15 +41,19 @@ The 28nm Process Design Kits (PDKs) are designed for use in research and teachin
 ![symbol](https://user-images.githubusercontent.com/73933646/156180261-8110779b-013e-443f-846b-eca8183853ea.png)
 
 * ### Testbench Symbol
-![Testbenchsymbol](https://user-images.githubusercontent.com/73933646/156180550-e0228830-43af-4efb-b98c-52b5a72657c3.png)
+![testbenchsymbol](https://user-images.githubusercontent.com/73933646/156192712-55dd291a-77ce-480f-97de-81f90e7f7d4c.png)
+
+
 
 * ### Input A Parameters
-![inputA](https://user-images.githubusercontent.com/73933646/156180671-881c898c-546a-4405-94cb-046e070a7fb7.png)
+![inputA](https://user-images.githubusercontent.com/73933646/156192523-aef77901-b7c4-4309-a3cc-bd7fd773fbe5.png)
+
 
 
 * ### Input B Parameters
 
-![inputB](https://user-images.githubusercontent.com/73933646/156180760-3d778cc8-4c1a-4bb4-9c66-d1169e864df5.png)
+![inputB](https://user-images.githubusercontent.com/73933646/156192559-e60934f7-faf1-459f-8e59-c2c96a6f0190.png)
+
 
 
 * ### Testbench Settings

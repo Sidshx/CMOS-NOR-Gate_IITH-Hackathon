@@ -34,10 +34,10 @@ The 28nm Process Design Kits (PDKs) are designed for use in research and teachin
 
 ## Synopsis Simulation
 
-* Schematic
+* ### Schematic
 ![schematic](https://user-images.githubusercontent.com/73933646/156180203-68f4183c-df47-4034-8d09-2d8f9d122dbf.png)
 
-* Symbol
+* ### Symbol
 ![symbol](https://user-images.githubusercontent.com/73933646/156180261-8110779b-013e-443f-846b-eca8183853ea.png)
 
 * Testbench

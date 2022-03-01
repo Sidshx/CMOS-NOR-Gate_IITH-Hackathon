@@ -59,7 +59,74 @@ The 28nm Process Design Kits (PDKs) are designed for use in research and teachin
 ![primewaveparameters](https://user-images.githubusercontent.com/73933646/156180983-2d67ec1c-25b6-4dfa-8090-2269244eb073.png)
 
 * Netlist
-[Netlist.txt](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/files/8162013/Netlist.txt)
+
+*  Generated for: PrimeSim
+*  Design library name: CMOS_NOR
+*  Design cell name: 2_input_cmos_NOR_tb
+*  Design view name: schematic
+.lib 'saed32nm.lib' TT
+
+*Custom Compiler Version S-2021.09
+*Sun Feb 27 14:09:15 2022
+
+.global gnd! vdd!
+********************************************************************************
+* Library          : CMOS_NOR
+* Cell             : 2_input_cmos_NOR
+* View             : schematic
+* View Search List : hspice hspiceD schematic spice veriloga
+* View Stop List   : hspice hspiceD
+********************************************************************************
+.subckt _2_input_cmos_nor a b gnda vdd y vt_bulk_n_gnd! vt_bulk_p_vdd!
+xm8 y b net4 vt_bulk_p_vdd! p105 w=0.1u l=0.03u nf=1 m=1
+xm0 net4 a vdd vt_bulk_p_vdd! p105 w=0.1u l=0.03u nf=1 m=1
+xm9 y b gnda vt_bulk_n_gnd! n105 w=0.1u l=0.03u nf=1 m=1
+xm10 y a gnda vt_bulk_n_gnd! n105 w=0.1u l=0.03u nf=1 m=1
+.ends _2_input_cmos_nor
+
+********************************************************************************
+* Library          : CMOS_NOR
+* Cell             : 2_input_cmos_NOR_tb
+* View             : schematic
+* View Search List : hspice hspiceD schematic spice veriloga
+* View Stop List   : hspice hspiceD
+********************************************************************************
+xi0 in_a in_b gnd! net26 out_y gnd! vdd! _2_input_cmos_nor
+v16 net26 gnd! dc=1.8
+c20 out_y gnd! c=1p
+v18 in_b gnd! dc=0 pulse ( 0 1.8 0 0.1u 0.1u 10u 20u )
+v17 in_a gnd! dc=0 pulse ( 0 1.8 0 0.1u 0.1u 5u 10u )
+
+
+
+
+
+
+
+
+.tran '1u' '20u' name=tran
+
+.option primesim_remove_probe_prefix = 0
+.probe v(*) i(*) level=1
+.probe tran v(in_a) v(in_b) v(out_y)
+
+.temp 25
+
+
+
+.option primesim_output=wdf
+
+
+.option parhier = LOCAL
+
+
+
+
+
+
+.end
+
+
 
 * Testbench Waveform
 ![tbwaveform](https://user-images.githubusercontent.com/73933646/156181181-0295d543-e166-4b63-9ece-6d1a4b46a867.png)

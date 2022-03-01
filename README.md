@@ -40,19 +40,31 @@ The 28nm Process Design Kits (PDKs) are designed for use in research and teachin
 * ### Symbol
 ![symbol](https://user-images.githubusercontent.com/73933646/156180261-8110779b-013e-443f-846b-eca8183853ea.png)
 
-* Testbench
+* ### Testbench Symbol
+![Testbenchsymbol](https://user-images.githubusercontent.com/73933646/156180550-e0228830-43af-4efb-b98c-52b5a72657c3.png)
 
-* Input A Parameters
+* ### Input A Parameters
+![inputA](https://user-images.githubusercontent.com/73933646/156180671-881c898c-546a-4405-94cb-046e070a7fb7.png)
 
-* Input B Parameters
 
-* Testbench Settings
+* ### Input B Parameters
 
-* Primewave Parameters
+![inputB](https://user-images.githubusercontent.com/73933646/156180760-3d778cc8-4c1a-4bb4-9c66-d1169e864df5.png)
+
+
+* ### Testbench Settings
+![tbsettings](https://user-images.githubusercontent.com/73933646/156180876-5ba24e34-c927-4d4e-9ea6-b7c732d0ae5b.png)
+
+* ### Primewave Parameters
+![primewaveparameters](https://user-images.githubusercontent.com/73933646/156180983-2d67ec1c-25b6-4dfa-8090-2269244eb073.png)
 
 * Netlist
+[Netlist.txt](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/files/8162013/Netlist.txt)
 
 * Testbench Waveform
+![tbwaveform](https://user-images.githubusercontent.com/73933646/156181181-0295d543-e166-4b63-9ece-6d1a4b46a867.png)
+
+
 
 ## Conclusion
 

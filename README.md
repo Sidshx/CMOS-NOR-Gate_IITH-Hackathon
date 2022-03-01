@@ -176,7 +176,7 @@ v17 in_a gnd! dc=0 pulse ( 0 1.8 0 0.1u 0.1u 5u 10u )
 
 [1].[https://www.researchgate.net/publication/316548029_Analysis_of_CMOS_based_NAeND_and_NOR_Gates_at_45_nm_Technology](https://www.researchgate.net/publication/316548029_Analysis_of_CMOS_based_NAeND_and_NOR_Gates_at_45_nm_Technology)
 
-[2]. [https://www.allaboutcircuits.com/textbook/digital/chpt-3/cmos-gate-circuitry/](https://www.allaboutcircuits.com/textbook/digital/chpt-3/cmos-gate-circuitry/)
+[2].[https://www.allaboutcircuits.com/textbook/digital/chpt-3/cmos-gate-circuitry/](https://www.allaboutcircuits.com/textbook/digital/chpt-3/cmos-gate-circuitry/)
 
 
 

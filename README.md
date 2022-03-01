@@ -140,6 +140,7 @@ v17 in_a gnd! dc=0 pulse ( 0 1.8 0 0.1u 0.1u 5u 10u )
 * [Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://github.com/kunalg123)
 * Cloud Based Analog IC Design Hackathon, IIT Hyderabad
 * [Chinmaya Panda, IIT Hyderabad](mailto:chinmaya.panda@ee.iith.ac.in)
+* Sameer Durgoji, NIT Karnataka
 
 ## References
 

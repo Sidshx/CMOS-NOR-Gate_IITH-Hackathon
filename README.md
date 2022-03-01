@@ -13,23 +13,23 @@ CMOS Implemented NOR Gate is designed using Synopsys custom design tools.
 
 ### Synopsis Simulation
 
-*Schematic
+* Schematic
 
-*Symbol
+* Symbol
 
-*Testbench
+* Testbench
 
-*Input A Parameters
+* Input A Parameters
 
-*Input B Parameters
+* Input B Parameters
 
-*Testbench Settings
+* Testbench Settings
 
-*Primewave Parameters
+* Primewave Parameters
 
-*Netlist
+* Netlist
 
-*Testbench Waveform
+* Testbench Waveform
 
 
 

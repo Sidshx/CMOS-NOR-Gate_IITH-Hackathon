@@ -53,8 +53,8 @@ The 28nm Process Design Kits (PDKs) are designed for use in research and teachin
 
 
 * ### Testbench Settings
-![tbsettings](![image](https://user-images.githubusercontent.com/73933646/156191743-0cc2e0ce-6e1b-4e93-ad36-76c4e7255069.png)
-)
+![testbenchsettings](https://user-images.githubusercontent.com/73933646/156192011-68489baf-458f-493d-ae91-94fcc607c717.png)
+
 
 * ### Primewave Parameters
 ![primewaveparameters](https://user-images.githubusercontent.com/73933646/156180983-2d67ec1c-25b6-4dfa-8090-2269244eb073.png)

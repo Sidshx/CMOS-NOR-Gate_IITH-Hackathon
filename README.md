@@ -1,6 +1,29 @@
 # CMOS Implemented NOR Gate
 CMOS Implemented NOR Gate is designed using Synopsys custom design tools.
 
+## Table of Contents
+
+-  [Abstract](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#abstract-1)
+-  [Reference Circuit](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#reference-circuit)
+-  [Reference Circuit Details](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#reference-circuit-details)
+-  [Reference Waveform](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#reference-waveform)
+-  [Tools Used](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#tools-used)
+      - [Synopsys Custom Compiler](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#synopsys-custom-compiler)
+      - [Synopsys Primewave](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#synopsys-primewave)
+      - [Synopsys 28nm PDK](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#synopsys-28nm-pdk)
+-  [Synopsis Simulation](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#synopsis-simulation)
+      - [Schematic](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#schematic)
+      - [Symbol](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#symbol)
+      - [Testbench Symbol](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#testbench-symbol)
+      - [Input A Parameters](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#input-a-parameters)
+      - [Input B Parameters](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#input-b-parameters)
+      - [Testbench Settings](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#testbench-settings)
+      - [Primewave Parameters](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#primewave-parameters)
+      - [Netlist](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#netlist)
+      - [Testbench Waveform](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#testbench-waveform)
+-  [Acknowledgement](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#acknowledgement)
+-  [References](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#references)
+      
 ## Abstract
 NOR gate is a universal gate. It is a logically inverted version of the basic OR gate. In this implementation it has two inputs (A & B) with an output (Y). Its logical equation is derived as Y=(A+B)'.
 

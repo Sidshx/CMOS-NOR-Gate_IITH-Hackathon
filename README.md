@@ -1,17 +1,17 @@
 # CMOS Implemented NOR Gate
 CMOS Implemented NOR Gate is designed using Synopsys custom design tools.
 
-### Abstract
+## Abstract
 
-### Reference Circuit
+## Reference Circuit
 
-### Reference Circuit Details
+## Reference Circuit Details
 
-### Reference Waveform
+## Reference Waveform
 
-### Tools Used
+## Tools Used
 
-### Synopsis Simulation
+## Synopsis Simulation
 
 * Schematic
 

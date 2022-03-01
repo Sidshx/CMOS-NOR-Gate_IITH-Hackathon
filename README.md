@@ -4,7 +4,7 @@ CMOS Implemented NOR Gate is designed using Synopsys custom design tools.
 ## Table of Contents
 
 -  [Abstract](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/blob/main/README.md#abstract)
--  [Reference Circuit](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#reference-circuit)
+-  [Reference Circuit](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/blob/main/README.md#reference-circuit)
 -  [Reference Circuit Details](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#reference-circuit-details)
 -  [Reference Waveform](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#reference-waveform)
 -  [Tools Used](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/edit/main/README.md#tools-used)

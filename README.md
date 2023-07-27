@@ -1,6 +1,9 @@
 # CMOS Implemented NOR Gate
 CMOS Implemented NOR Gate is designed using Synopsys custom design tools.
 
+![image](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/assets/73933646/83521415-4ae0-4286-bff7-6ff6535d24dc)
+
+
 ## Table of Contents
 
 -  [Abstract](https://github.com/Sidshx/CMOS-NOR-Gate_IITH-Hackathon/blob/main/README.md#abstract)
